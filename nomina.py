@@ -26,3 +26,5 @@ def registrar_empleado():
 registrar_empleado()
 print(usuarios)
 
+##Este es el commit del feature US1/Registrar empleado
+
